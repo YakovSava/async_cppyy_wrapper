@@ -1,0 +1,25 @@
+[project]
+name = "asynccppyy"
+version = "1.0"
+
+[tool.poetry]
+name = "asynccppyy"
+version = "1.0"
+authors = [
+  { name="YakovSava", email="g6h6m238929@gmail.com" },
+]
+description = "This is an asynchronous wrapper for cppyy"
+readme = "README.md"
+license = "MIT"
+classifiers = [
+    "Programming Language :: Python :: 3.9",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+"Homepage" = "https://github.com/YakovSava/async_cppyy_wrapper"
+"Bug Tracker" = "https://github.com/YakovSava/async_cppyy_wrapper/issues"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+cppyy = "^3.0.0"
+typing_extensions = "^4.5.0"
