@@ -1,6 +1,8 @@
 [project]
 name = "asynccppyy"
 version = "1.0"
+description = "This is an asynchronous wrapper for cppyy"
+readme = "README.md"
 
 [tool.poetry]
 name = "asynccppyy"

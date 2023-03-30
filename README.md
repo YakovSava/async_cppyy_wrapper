@@ -1,3 +1,9 @@
+<p align="center">	
+	<img alt="PyPI" src="https://img.shields.io/pypi/v/asynccppyy?color=green&label=PyPI">
+	<img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/YakovSava/async_cppyy_wrapper/bug">
+	<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/asynccppyy">
+</p>
+
 # What is it?
 This is a small wrapper library for [cppyy](https://github.com/wlav/cppyy) ([PyPl](https://pypi.org/project/cppyy/)) in Python
 
