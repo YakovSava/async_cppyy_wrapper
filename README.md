@@ -1,7 +1,7 @@
 <p align="center">	
 	<img alt="PyPI" src="https://img.shields.io/pypi/v/asynccppyy?color=green&label=PyPI">
 	<img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/YakovSava/async_cppyy_wrapper/bug">
-	<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/async_cppyy_wrapper">
+	<img alt="PyPI - Downloads" src="https://img.shields.io/github/downloads/YakovSava/async_cppyy_wrapper/total">
 </p>
 
 # What is it?
